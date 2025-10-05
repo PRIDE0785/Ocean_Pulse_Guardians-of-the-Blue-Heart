@@ -9,8 +9,8 @@ Problem
 The world’s oceans are facing serious threats from climate change, pollution, and rising temperatures. Although NASA collects extensive data on sea surface temperature, chlorophyll levels, and sea level rise, this information often remains technical and inaccessible to the general public, educators, and policymakers.
 
 Our Solution – Ocean Pulse
-
 Ocean Pulse is an interactive web platform that visualizes real NASA ocean data from satellites such as Aqua, Terra, and Sentinel-6. It transforms scientific datasets into engaging and educational visual dashboards, showing the ocean’s real-time pulse and helping users understand and explore changes in ocean health.
+https://pride0785.github.io/Ocean_Pulse_Guardians-of-the-Blue-Heart
 
 Key Features
 Data Integration: Combines multiple NASA Earth observation datasets.
